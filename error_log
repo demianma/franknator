@@ -1,0 +1,53 @@
+[03-Apr-2021 22:47:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:48:33 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:50:27 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:50:32 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:52:29 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:52:35 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:56:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 22:56:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 23:06:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 23:06:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 18
+[03-Apr-2021 23:06:33 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 23:06:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 18
+[03-Apr-2021 23:08:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 23:08:31 America/Fortaleza] PHP Warning:  imagecreatefrompng(boleto_base.png): failed to open stream: No such file or directory in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 31
+[03-Apr-2021 23:08:39 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[03-Apr-2021 23:08:39 America/Fortaleza] PHP Warning:  imagecreatefrompng(boleto_base.png): failed to open stream: No such file or directory in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 31
+[04-Apr-2021 08:54:41 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 09:31:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 09:46:49 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 09:46:55 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 09:47:37 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 09:47:37 America/Fortaleza] PHP Warning:  Use of undefined constant quadros - assumed 'quadros' (this will throw an Error in a future version of PHP) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 20
+[04-Apr-2021 10:20:14 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:20:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 23
+[04-Apr-2021 10:22:37 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:22:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 23
+[04-Apr-2021 10:23:07 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:23:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 23
+[04-Apr-2021 10:23:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:23:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 23
+[04-Apr-2021 10:27:14 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:27:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 28
+[04-Apr-2021 10:29:04 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:29:04 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quadro::__construct(), 0 passed in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 38 and at least 1 expected in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php:22
+Stack trace:
+#0 /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php(38): Quadro->__construct()
+#1 {main}
+  thrown in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 22
+[04-Apr-2021 10:30:20 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:30:20 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Quadro::__construct(), 0 passed in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 38 and at least 1 expected in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php:22
+Stack trace:
+#0 /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php(38): Quadro->__construct()
+#1 {main}
+  thrown in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 22
+[04-Apr-2021 10:35:59 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:35:59 America/Fortaleza] PHP Fatal error:  Cannot redeclare Quadro::__construct() in /home2/demia275/demiandiy.com/apps/frank/ver 6 php/index.php on line 27
+[04-Apr-2021 10:40:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:41:22 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:42:34 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:42:56 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:43:29 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:43:32 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[04-Apr-2021 10:44:55 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
