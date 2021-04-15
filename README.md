@@ -1,5 +1,5 @@
 # Frankzator 1.0
-Gerador de quadrinhos de Frank, a baleia franca.
+## O gerador de quadrinhos de Frank, a baleia franca.
 
 Frank, a baleia franca é um [quadrinho no Instagram](https://www.instagram.com/frankabaleiafranca/) nascido de um consciente coletivo de personalidades múltiplas e distintas, se isso fizer sentido.
 
